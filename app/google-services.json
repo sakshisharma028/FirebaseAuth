@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "795187146153",
+    "firebase_url": "https://hellofirebase-f4a74.firebaseio.com",
+    "project_id": "hellofirebase-f4a74",
+    "storage_bucket": "hellofirebase-f4a74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795187146153:android:d552a5671d2efdb0c9a8b8",
+        "android_client_info": {
+          "package_name": "com.example.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795187146153-erhrpnd57d4bbrdq94guahie2h60snkg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebaseauth",
+            "certificate_hash": "2ebbb63cce68e7c4045bd4c1d3eecd80d7c14088"
+          }
+        },
+        {
+          "client_id": "795187146153-m7s77bc8m8lrivudtt8boqkp3cjgundv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdGHH2F9cib_7PvSwcSzuovcFgqQlLDlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795187146153-m7s77bc8m8lrivudtt8boqkp3cjgundv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
